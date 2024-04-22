@@ -17,4 +17,8 @@ Things I Learnt :
 
 
 
+The Assets folder was in .gitignore file. Thus, the project is lost. :) .
+
+
+
    
